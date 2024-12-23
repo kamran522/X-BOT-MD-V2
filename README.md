@@ -42,12 +42,12 @@
    <br>
    
 **Server 1**  
-<a href='https://x-bot-md-qr.koyeb.app' target="_blank">
+<a href='https://https-x-bot-md-qr-2.onrender.com' target="_blank">
     <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
 </a>
 
 **Server 2**  
-<a href='https://https-x-bot-md-qr-2.onrender.com' target="_blank">
+<a href='https://x-bot-md-qr.koyeb.app' target="_blank">
     <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
 </a>
 
@@ -86,7 +86,7 @@
 
 4. Now Deploy
     <br>
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD&branch=main&name=xbotmd&builder=dockerfile&env[SESSION_ID]=%20&env[WORK_TYPE]=private&env[HANDLER]=.&env[BOT_INFO]=X-BOT-MD;ASWIN%20SPARKY;https://i.imgur.com/QH7T7u9.jpeg&env[SUDO]=917012984396&env[STICKER_DATA]=SPARKY&env[DATABASE_URL]' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD&branch=main&name=xbotmd&builder=dockerfile&env[SESSION_ID]=%20&env[WORK_TYPE]=private&env[HANDLERS]=.&env[BOT_INFO]=X-BOT-MD;ASWIN%20SPARKY;https://i.imgur.com/QH7T7u9.jpeg&env[SUDO]=917012984396&env[STICKER_DATA]=SPARKY&env[DATABASE_URL]' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
 
 #### DEPLOY ON RAILWAY
 
